@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **App development**
 
-- 👨‍💻 You can check out my profile @ [vinayak19th.github.io](vinayak19th.github.io)
+- 👨‍💻 You can check out my profile @ [vinayak19th.github.io](https://vinayak19th.github.io/)
 
 - 💬 Ask me about **Tensorflow or any ML/DL work**
 
