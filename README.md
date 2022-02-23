@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **Tensorflow or any ML/DL work**
 
-- 📫 Reach me on my linked in profile
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vinayak1998th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinayak1998th" height="30" width="40" /></a>
