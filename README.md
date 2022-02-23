@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Tensorflow or any ML/DL work**
 
-- 📫 How to reach me on my linked in profile
+- 📫 Reach me on my linked in profile
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
