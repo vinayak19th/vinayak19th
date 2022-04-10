@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Vinayak</h1>
 <h3 align="center">A Machine Learning Developer currently working as a Product Engineer - AI/ML <a href="https://www.myelinfoundry.com/">@MyelinFoundry</a></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayak19th&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak19th" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayak19th&&theme=onedark&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak19th" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayak19th" alt="vinayak19th" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/vinayak1998th" target="blank"><img src="https://img.shields.io/twitter/follow/vinayak1998th?logo=twitter&style=for-the-badge" alt="vinayak1998th" /></a> </p>
 
-- 🌱 I’m currently learning **App development**
+- 🌱 I’m currently learning **ML-Ops**
 
 - 👨‍💻 You can check out my profile @ [vinayak19th.github.io](https://vinayak19th.github.io/)
 
