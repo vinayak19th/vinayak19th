@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Vinayak <img src="https://komarev.com/ghpvc/?username=vinayak19th&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak19th" /></h1> 
-<h3 align="center">A Machine Learning Developer currently working as a Product Engineer - AI/ML <a href="https://www.myelinfoundry.com/">@MyelinFoundry</a> </h3>
+<h3 align="center">Masters Student with full-time experience in Machine Learning development. Seeking a summer internship opportunity to develop skills and gain practical experience before pursuing a PhD in the field.
+</h3>
 
 <p align="left">  </p>
 
