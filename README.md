@@ -21,8 +21,31 @@
 <a href="https://linkedin.com/in/vinayaksha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayaksha/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools of Choice:</h3></p>
-  
+<h3 align="left">Preferred Stack:</h3>
+<table>
+    <tr style="padding: 20px">
+        <th><b>Languages :</b></th>
+        <th><b>Tools :</b></th>
+        <th><b>Libraries :</b></th>
+    </tr>
+    <tr style="padding: 20px">
+        <td>
+            <a href="www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=40px height=40px />  </a>
+            <a href="https://cplusplus.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width=40px height=40px />  </a>
+            <a href="https://kotlinlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width=40px height=40px /> </a>
+        </td>
+        <td>
+            <a href="https://ubuntu.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width=40px height=40px />  </a>
+            <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width=40px height=40px/>  </a>
+            <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"  width=40px height=40px/>  </a>
+            <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width=40px height=40px/>  </a>
+        </td>
+        <td>
+            <a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width=40px height=40px />  </a>
+            <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width=40px height=40px />  </a>
+            <a href="https://www.android.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width=40px height=40px />  </a>
+        </td>
+</table>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayak19th&show_icons=true&locale=en&layout=compact" alt="vinayak19th" /></p>
 
