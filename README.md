@@ -47,9 +47,9 @@
         </td>
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayak19th&show_icons=true&locale=en&layout=compact" alt="vinayak19th" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayak19th&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="vinayak19th" /></p>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinayak19th&show_icons=true&locale=en" alt="vinayak19th" /></p>-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayak19th&" alt="vinayak19th" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayak19th&theme=tokyonight&" alt="vinayak19th" /></p>
 
