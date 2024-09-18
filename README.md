@@ -25,7 +25,7 @@
 <table>
     <tr style="padding: 20px">
         <th><b>Languages :</b></th>
-        <th><b>Tools :</b></th>
+        <th><b>Dev Ops :</b></th>
         <th><b>Libraries :</b></th>
     </tr>
     <tr style="padding: 20px">
@@ -35,7 +35,6 @@
             <a href="https://kotlinlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width=40px height=40px /> </a>
         </td>
         <td>
-            <a href="https://ubuntu.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width=40px height=40px />  </a>
             <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width=40px height=40px/>  </a>
             <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"  width=40px height=40px/>  </a>
             <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width=40px height=40px/>  </a>
