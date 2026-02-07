@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hey there 👋, I'm Vinayak <img src="https://komarev.com/ghpvc/?username=vinayak19th&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak19th" /></h1> 
+<h1 align="center">Hey there 👋, I'm Vinayak</h1> 
 <p align="center">
     Driven PhD student in Quantum Machine Learning with a passion for bridging the gap between theory and application. Prior industry experience as a Deep Learning Developer at <a href=https://www.myelinfoundry.com/">@Myelin Foundry</a>. Currently, I’m researching ML algorithms to improve NISQ computer performance at <a href="https://labs.engineering.asu.edu/mps-lab/person/vinayak-sharma/"> @MPS-Lab</a>. <br> <br>
     <b>Where I'm looking to go</b>: Contribute to the development of NISQ-era devices via the application of SOTA ML techniques.<br><br>
