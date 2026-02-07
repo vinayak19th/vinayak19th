@@ -8,8 +8,6 @@
 
 <p align="left">  </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayak19th&theme=onedark" alt="vinayak19th" /></a> </p>
-
 - 🌱 I’m currently learning **Quantum Computing**
 
 - 👨‍💻 You can check out my profile @ [vinayak19th.github.io](https://vinayak19th.github.io/)
@@ -46,10 +44,3 @@
             <a href="https://www.android.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width=40px height=40px />  </a>
         </td>
 </table>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayak19th&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="vinayak19th" /></p>
-
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinayak19th&show_icons=true&locale=en" alt="vinayak19th" /></p>-->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayak19th&theme=tokyonight&" alt="vinayak19th" /></p>
-
